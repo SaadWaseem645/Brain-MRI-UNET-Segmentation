@@ -1,0 +1,7 @@
+
+archive_3.zip
+/dataset
+model_weight/Vanila_UNet.pth
+model_weight/Vanila_UNetunet.pth
+/temp
+/model_weight
